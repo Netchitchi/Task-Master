@@ -330,7 +330,6 @@ Deseja notificações suaves para início e fim de ciclos de trabalho e pausas.<
 <img width="1280" alt="Diagrama de classes" src="https://github.com/user-attachments/assets/12459e31-372f-4284-927f-70f1fd57148d">
 <h2> Repositório do backend</h2>
 
-Acesse ao nosso repositório do backend através deste link: https://github.com/AndyMorais1/TaskMasterBackEnd
 
 <h2>Conclusão  </h2>
 
